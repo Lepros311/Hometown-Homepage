@@ -23,7 +23,7 @@ body {
 
 #hero-section {
     background-image: url("images/torshov.jpg");
-    background-size: 100%;
+    background-size: cover;
     background-position: center;
     height: 463px;
     color: white;
